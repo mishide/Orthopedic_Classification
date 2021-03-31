@@ -1,1 +1,6 @@
 
+File used for EDA:  weka2c.csv
+
+Additional file for future development weka3c.csv
+
+Files resulting from EDA, stored as:  Data.csv, X.csv, Y.csv
