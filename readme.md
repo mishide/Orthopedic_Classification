@@ -54,17 +54,17 @@ The data for this project came from Kaggle's collection "Biomechanical Features 
     <br>
 * 6 quantitative variables: 
 
-    Pelvic Tilt
-    
-    Pelvic Incidence
-    
-    Pelvic Radius
-    
-    Lumbar Lardosis Angle
-    
-    Sacral Slope
-    
-    Degree Spondylolisthesis
+        Pelvic Tilt
+
+        Pelvic Incidence
+
+        Pelvic Radius
+
+        Lumbar Lardosis Angle
+
+        Sacral Slope
+
+        Degree Spondylolisthesis
  <br>
 
 
