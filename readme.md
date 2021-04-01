@@ -7,13 +7,13 @@ date:  March 2021
     
 Code
 ========================================================
-<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
+<font = 40><a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
 <br><br>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>&nbsp; 1) build and tests the models 2) results & recommendations
-
+</font>
 
 <div>
-<img src="images/Screen Shot 2021-04-01 at 11.03.58 AM.png" ALIGN="left" width="1000"
+<img src="images/R_B_spine.png" ALIGN="left" width="300"
 </div>
 
 <br>
