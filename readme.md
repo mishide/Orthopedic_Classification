@@ -82,12 +82,12 @@ Modeling
 6 models were tuned and tested for accuracy.  
 <br>
     
-* Logistic Regression:  low CPU cost, easy to tune, linear based is sensitive to feature corr & outliers
-* Gradient Boost:  combines multiple trees to reduce overfitting, high CPU cost & tuning
-* Support Vector Machine:  +imbalance & smaller datasets, difficult to tune - needs large boundaries
-* Random Forest Classifier: less prone to overfitting, lower accuracy for highly corr features
-* Kneighbors Classifier: evolves & flexible hyper parameters, sensitive to outliers & data imbalance
-* Gaussian Naive Bayes: Not sensitive to outliers or imbalances, assumes feature independence
+    * Logistic Regression:  low CPU cost, easy to tune, linear based is sensitive to feature corr & outliers
+    * Gradient Boost:  combines multiple trees to reduce overfitting, high CPU cost & tuning
+    * Support Vector Machine:  +imbalance & smaller datasets, difficult to tune - needs large boundaries
+    * Random Forest Classifier: less prone to overfitting, lower accuracy for highly corr features
+    * Kneighbors Classifier: evolves & flexible hyper parameters, sensitive to outliers & data imbalance
+    * Gaussian Naive Bayes: Not sensitive to outliers or imbalances, assumes feature independence
 <br>
 
 
@@ -105,7 +105,13 @@ Using SMOTE-TL: Out of 100 samples, 7 will be false positive ( Abnormal ) and 1 
 <img src="/images/Screen Shot 2021-04-01 at 12.50.13 PM.png" ALIGN="left" width="400"
 </div>
  <img src="/images/Screen Shot 2021-04-01 at 12.50.35 PM.png" ALIGN="right" width="400"
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
 
 
 Recommendations
