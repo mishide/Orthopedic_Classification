@@ -35,7 +35,7 @@ Determinination of Abnormal versus Normal results is particularly difficult with
 Project
 ========================================================
 
-<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis to reduce interpretive errors and increase consistency resulting in reduced costs and improved outcomes.</b>  
+<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal for cases of Spondylolisthesis resulting in improved sensitivity.</b>  
 </small> 
 
 
