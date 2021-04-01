@@ -46,21 +46,20 @@ Data
 <small>
 The data for this project came from Kaggle's collection "Biomechanical Features in Orthopedic Patients.
   <br><br>
- -- 309 records after outlier removal.
+* 309 records after outlier removal.
   <br>
- -- The data is clean and contains no null values.
+* The data is clean and contains no null values.
   <br>
- -- 1 Target binomial variable (Normal/Abnormal)
+* 1 Target binomial variable (Normal/Abnormal)
     <br>
- -- 6 quantitative variables
+* 6 quantitative variables
 </small><small>
-    
-* Pelvic Tilt
-* Pelvic Incidence
-* Pelvic Radius
-* Lumbar Lardosis Angle
-* Sacral Slope
-* Degree Spondylolisthesis.</small>
+    Pelvic Tilt
+    Pelvic Incidence
+    Pelvic Radius
+    Lumbar Lardosis Angle
+    Sacral Slope
+    Degree Spondylolisthesis.</small>
  <br>
 
 
