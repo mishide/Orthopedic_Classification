@@ -19,14 +19,14 @@ The Code
 <img src="images/R_B_spine.png" ALIGN="left" width="300"
 </div>
 
-<br><br>
+<br>
 <h2> Correctly label 97% of "Abnormal" x-rays versus 56% with this model</h2>
 
 
 Project
 ========================================================
 
-<b>This Machine Learning project demonstrates an improvement of x-ray result sensitivies (true positives) from 56% to 97%. The model provided is a validation tool, useful in saving cost, time, and stress for radiologists.  By learning from correctly labeled results, performing a statistical method of simultaneous comparisons on angles, and labeling the most probable result, a radiologist can validate especially the most challenging "boundry" cases. </b>  
+This Machine Learning project demonstrates an improvement of x-ray result sensitivies (true positives) from 56% to 97%. The model provided is a validation tool, useful in saving cost, time, and stress for radiologists.  By learning from correctly labeled results, performing a statistical method of simultaneous comparisons on angles, and labeling the most probable result, a radiologist can validate especially the most challenging "boundry" cases. 
 
 <br><br><br>
 
