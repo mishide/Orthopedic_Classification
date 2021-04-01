@@ -9,7 +9,7 @@ Code
 ========================================================
 
 <large>
-<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
+<bold><a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
 <br><br>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>&nbsp; 1) build and tests the models 2) results & recommendations
 
@@ -23,7 +23,7 @@ Why
 ========================================================
 
 
-<i><font = 30>"Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome." from <u>The Spine</u> journal April 2017</i></font>
+<i>"Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome." from <u>The Spine</u> journal April 2017</i></font>
 <br><br><br>
 Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray determination of "Abnormal" or "Normal".
  <br><br>
