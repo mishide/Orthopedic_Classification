@@ -23,8 +23,8 @@ The Code
 Project
 ========================================================
 
-<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal for cases of Spondylolisthesis resulting in improved sensitivity.</b>  
-</small> 
+<b>This Machine Learning project demonstrates and improvement in sensitivies of x-ray results from 56% to 97%. The model provided is a validation tool, useful in saving cost, time, and stress for radiologists.  By learning from correctly labeled results, performing a statistical method of simultaneous comparisons on angles, and flagging the most probably results, radiologists can validate especially the most challenging "boundry" cases. </b>  
+
 
 
 Why
@@ -35,10 +35,6 @@ Why
 <br><br>
 
 Determinination of Abnormal versus Normal results is particularly difficult with Spondylolisthesis in boundry cases.  Over 30% of results are near the boundry between Normal and Abnormal values which translates to inconsistencies in interpretation with human interpretations.  These x-rays contain quantitative measurements that require simultaneous comparisons to properly label, something machine learning has proven to be well suited.
-
-This Machine Learning model provides a validation tool by drawing on correct results, performing a statistical method of simultaneous comparisons of angles, and flagging the most probably results.  The tool will save expenses, stress, and time for radiologists while improving patient outcomes.
- 
-
 
 
 Data
