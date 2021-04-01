@@ -7,11 +7,11 @@ date:  March 2021
 The Code
 ========================================================
 
-<h3>
+<h4>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
 <br><br>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>&nbsp; 1) build and tests the models 2) results & recommendations
-</h3>
+</h4>
 <br><br>
 
 
@@ -20,7 +20,7 @@ The Code
 </div>
 
 <br>
-<h2> Correctly label 97% of "Abnormal" x-rays versus 56% with this model</h2>
+<h3> Correctly label 97% of "Abnormal" x-rays versus 56% with this model</h3>
 
 
 Project
