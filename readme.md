@@ -24,11 +24,11 @@ Why
 
 
 <cite>A study published in "The Spine" in 2017 found sensitivity results across 10 radiology sites to be 56% with the best sensitivity of 72% for one site.  This means, on average, all the x-rays labeled "Abnormal" were actually "Normal" 44% of the time - resembling the flip of a coin.</cite></font>
-<br><br><br>
-This project demonstrates how machine learning can improve accuracy providing radiologists a validaton tool, reducing a variety of costs, time, and stress.
- <br><br>
+<br><br>
 
 Determinination of Abnormal versus Normal results is particularly difficult with Spondylolisthesis in boundry cases.  Over 30% of results are near the boundry between Normal and Abnormal values which translates to inconsistencies in interpretation with human interpretations.  These x-rays contain quantitative measurements that require simultaneous comparisons to properly label, something machine learning has proven to be well suited.
+
+This Machine Learning model provides a validation tool by drawing on correct results, performing a statistical method of simultaneous comparisons of angles, and flagging the most probably results.  The tool will save expenses, stress, and time for radiologists while improving patient outcomes.
  
 
 
