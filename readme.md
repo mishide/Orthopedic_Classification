@@ -20,7 +20,7 @@ The Code
 </div>
 
 <br><br>
-<h1> Improve X-Ray Results so 97% of x-rays labeled "Abnormal" are "Abnormal" versus 56%.</h1>
+<h2> Correctly label 97% of "Abnormal" x-rays versus 56% with this model</h2>
 
 
 Project
