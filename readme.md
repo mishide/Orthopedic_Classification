@@ -102,16 +102,10 @@ Using SMOTE-TL: Out of 100 samples, 7 will be false positive ( Abnormal ) and 1 
 
 
 <div>
-<img src="/images/Screen Shot 2021-04-01 at 12.50.13 PM.png" ALIGN="left" width="500"
+<img src="/images/Screen Shot 2021-04-01 at 12.50.13 PM.png" ALIGN="left" width="450"
 </div>
- <img src="/images/Screen Shot 2021-04-01 at 12.50.35 PM.png" ALIGN="right" width="500"
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-
+ <img src="/images/Screen Shot 2021-04-01 at 12.50.35 PM.png" ALIGN="right" width="450"
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 Recommendations
