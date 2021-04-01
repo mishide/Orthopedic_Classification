@@ -23,16 +23,12 @@ Why
 ========================================================
 
 
-<i>"Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome." from <u>The Spine</u> journal April 2017</i></font>
+<cite>A study published in "The Spine" in 2017 found sensitivity results across 10 radiology sites to be 56% with the best sensitivity of 72% for one site.  This means, on average, all the x-rays labeled "Abnormal" were actually "Normal" 44% of the time - resembling the flip of a coin.</cite></font>
 <br><br><br>
-Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray determination of "Abnormal" or "Normal".
+This project demonstrates how machine learning can improve accuracy providing radiologists and much needed validaton tool.
  <br><br>
- A study published in "The Spine", April 2017(ref1) researched accuracy rates of MRI Lumbar Spine results.  It found significant variability and a high rate of interpretive errors. The conclusions stated,
-<br><br>
- <i> "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."</i>
- <br><br>
- Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that reduces interpretive errors resulting in reduced cost for many; hospitals, physicians, insurance, and patients, while improving many patient outcomes.
 
+Determinination of Abnormal versus Normal results is particularly difficult with Spondylolisthesis in boundry cases.  Over 30% of results are near the boundry between Normal and Abnormal values which translates to inconsistencies in interpretation with human interactions.  These x-rays contain quantitative measurements that need simultaneous comparisons to properly label, something machine learning has a proven track record as useful.
  
 
 
