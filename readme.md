@@ -28,7 +28,7 @@ Why
 This project demonstrates how machine learning can improve accuracy providing radiologists a validaton tool, reducing a variety of costs, time, and stress.
  <br><br>
 
-Determinination of Abnormal versus Normal results is particularly difficult with Spondylolisthesis in boundry cases.  Over 30% of results are near the boundry between Normal and Abnormal values which translates to inconsistencies in interpretation with human interactions.  These x-rays contain quantitative measurements that need simultaneous comparisons to properly label, something machine learning has a proven track record as useful.
+Determinination of Abnormal versus Normal results is particularly difficult with Spondylolisthesis in boundry cases.  Over 30% of results are near the boundry between Normal and Abnormal values which translates to inconsistencies in interpretation with human interpretations.  These x-rays contain quantitative measurements that require simultaneous comparisons to properly label, something machine learning has proven to be well suited.
  
 
 
