@@ -20,11 +20,13 @@ The Code
 </div>
 
 <br>
-<h3> Correctly label 97% of "Abnormal" x-rays versus 56% with this model</h3>
 
 
 Project
 ========================================================
+
+
+<h3> Correctly label 97% of "Abnormal" x-rays versus 56% with this model</h3>
 
 This Machine Learning project demonstrates an improvement of x-ray result sensitivies (true positives) from 56% to 97%. The model provided is a validation tool, useful in saving cost, time, and stress for radiologists.  By learning from correctly labeled results, performing a statistical method of simultaneous comparisons on angles, and labeling the most probable result, a radiologist can validate especially the most challenging "boundry" cases. 
 
