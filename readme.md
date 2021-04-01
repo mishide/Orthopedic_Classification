@@ -3,7 +3,6 @@ Data Science Capstone: Classification of Spondylolisthesis
 author: Michelle Ide
 date:  March 2021
 
-
     
 Code
 ========================================================
@@ -19,6 +18,13 @@ Code
 </div>
 
 
+Project
+========================================================
+
+<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal for cases of Spondylolisthesis resulting in improved sensitivity.</b>  
+</small> 
+
+
 Why
 ========================================================
 
@@ -31,12 +37,6 @@ Determinination of Abnormal versus Normal results is particularly difficult with
 This Machine Learning model provides a validation tool by drawing on correct results, performing a statistical method of simultaneous comparisons of angles, and flagging the most probably results.  The tool will save expenses, stress, and time for radiologists while improving patient outcomes.
  
 
-
-Project
-========================================================
-
-<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal for cases of Spondylolisthesis resulting in improved sensitivity.</b>  
-</small> 
 
 
 Data
