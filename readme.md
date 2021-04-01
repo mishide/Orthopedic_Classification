@@ -13,7 +13,7 @@ Code
 
 
 <div>
-<img src="images/Screen Shot 2021-04-01 at 11.03.58 AM.png" ALIGN="left" width="1200"
+<img src="images/Screen Shot 2021-04-01 at 11.03.58 AM.png" ALIGN="left" width="1000"
 </div>
 
 <br>
