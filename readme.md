@@ -111,7 +111,7 @@ Using SMOTE-TL: Out of 100 samples, 7 will be false positive ( Abnormal ) and 1 
 Recommendations
 ========================================================
 
-Logistic Regression is the clear top performer, however, imbalanced data can be expected to be the normal in production and the decision between upsammpling methods would require feedback from decision makers on specificity.  While SMOTE-TL provides the best overall performance, in healthcare I believe the avoidance of false negatives is more desirable which can be seen with ADASYN demonstraing 0 false negatives.  
+Logistic Regression is the clear top performer, however, imbalanced data can be expected to be the normal in production and the decision between upsampling methods would require feedback from decision makers on specificity.  While SMOTE-TL provides the best overall performance, in healthcare I believe the avoidance of false negatives is more desirable which can be seen with ADASYN demonstraing 0 false negatives.  
 
 I would recommend additional testing of Support Vector Machine as well, which could be done side-by-side with Logistic Regression. I suspect the linear nature of Logistic Regression may reduce performance in real-world applications due to it's sensitivity to extremes and outliers.  In this case 1 outlier was removed prior to testing, however in production the removal of outliers without damaging results could be difficult.  The SVM performed very similar to logistic regression and has an algorithm that handles extreme values in a way that does not impact the remaining values, it has a more flexible boundry versus a straight line.
 
